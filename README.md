@@ -4,7 +4,7 @@ This project contains tasks related to low level programming using c programming
 
 | Projects | Description |
 | -------- | ----------- |
-| 0x00-hello\_world | - Why C programming is asesome |
+| [0x00-hello\_world](https://github.com/Joze-Work/alx-low_level_programming/tree/main/0x00-hello_world) | - Why C programming is asesome |
 |		    | - Who invented C |
 |		    | - Who are Dennis Ritchie, Brian Kernighan and Linux Torvalds |
 |		    | - What happens when you type `gcc main.c` |
@@ -17,4 +17,3 @@ This project contains tasks related to low level programming using c programming
 |		    | What is the official Holberton C coding style and how to check your code with `betty-style` |
 | 		    | - How to find the right header to include in your source code when using a standard library function |
 |		    | How does the main function influence the return value of the program |
-| ----------- | -------------- |
