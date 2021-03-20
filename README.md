@@ -17,3 +17,18 @@ This project contains tasks related to low level programming using c programming
 |		    | What is the official Holberton C coding style and how to check your code with `betty-style` |
 | 		    | - How to find the right header to include in your source code when using a standard library function |
 |		    | How does the main function influence the return value of the program |
+| [0x01-variables\_if\_else\_while](https://github.com/Joze-Work/alx-low_level_programming/tree/main/0x01-variables_if_else_while) | - What are the arithmetic operators and how to use them |
+|		    | What are the logical operators and how to use them |
+|		    | What the relational operators and how to use them |
+|		    | What values are considered TRUE and FALSE in C |
+|		    | What are the boolean operators and how to use them |
+|		    | How to use the `if`, `if ... else` statements |
+|		    | How to use comments |
+|		    | How to declare variables of types `char`, `int`, `unsigned int` |
+|		    | How to assigne values to variables |
+|		    | How to print the values of variables of type `char`, `int`, `unsigned int` with `printf` |
+|		    | How to use the `while` loop |
+|		    | How to use variables with the `while` loop |
+|		    | How to print variables using `printf` |
+|		    | What is the __ASCII__ character set
+|		    | What are the purpose of the `gcc` flags `-m32` and `-m64` |
